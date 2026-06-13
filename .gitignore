@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 빌드/검증 산출물
+build/
+*.exe
+*.log
+
+# 로컬 설정
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store
