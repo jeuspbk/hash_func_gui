@@ -3,6 +3,12 @@
 GUI에서 **키 타입**(정수/문자열)과 **구성**을 입력받아 **C 해시 함수(.h/.c)** 를 생성하는 도구.
 범용 해시(General)와 완전 해시(Perfect) 두 모드를 지원한다. 설계 상세는 [`DESIGN.md`](DESIGN.md).
 
+저장소: <https://github.com/jeuspbk/hash_func_gui>
+
+```bash
+git clone https://github.com/jeuspbk/hash_func_gui.git
+```
+
 ## 실행
 
 ```bash
